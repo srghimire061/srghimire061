@@ -1,9 +1,13 @@
+![Surya Raj Ghimire Github Cover Photo](https://github.com/srghimire061/srghimire061/blob/master/assets/image/srghimire_readme-cover.jpg)
+
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I am Surya Raj Ghimire, a Software Engineer from Pokhara, Nepal.
+I am Surya Raj Ghimire, a full-stack software engineer from Pokhara, Nepal.
 - :mortar_board: Completed Master in Computer Information System (MCIS) from Pokhara University.
-- :computer: My technology stack includes Asp.Net, C#, Ms-SQL, javascript, jQuery, React, and HTML/CSS/Bootstrap.
+- :computer: My technology stack includes Asp.Net, C#, Ms-SQL, Oracle, javascript, jQuery, React, and HTML/CSS/Bootstrap.
 - :sparkles: I have an immense interest in reading and hiking.
+
+Want to know more about me? Check out my [LinkedIn Profile](https://www.linkedin.com/in/srghimire061/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-windows-darkcyan)
@@ -24,6 +28,6 @@ I am Surya Raj Ghimire, a Software Engineer from Pokhara, Nepal.
 
 ## &#x1f4c8; GitHub Contribution Stats
 
-[![Nabaraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=srghimire061&show_icons=true)](https://github.com/srghimire061)
+[![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=srghimire061&show_icons=true)](https://github.com/srghimire061)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srghimire061&layout=compact)](https://github.com/srghimire061)
