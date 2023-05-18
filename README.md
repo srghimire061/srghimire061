@@ -11,6 +11,7 @@ Want to know more about me? Check out my [LinkedIn Profile](https://www.linkedin
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-windows-darkcyan)
+![](https://img.shields.io/badge/OS-LINUX-darkcyan)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio-darkcyan)
 ![](https://img.shields.io/badge/Editor-VS%20Code-darkcyan)
 ![](https://img.shields.io/badge/Code-C%23-darkcyan)
@@ -23,6 +24,7 @@ Want to know more about me? Check out my [LinkedIn Profile](https://www.linkedin
 ![](https://img.shields.io/badge/Shell-Bash-darkcyan)
 ![](https://img.shields.io/badge/SCM-git-darkcyan)
 ![](https://img.shields.io/badge/Database-MS--SQL-darkcyan)
+![](https://img.shields.io/badge/Database-Oracle-darkcyan)
 ![](https://img.shields.io/badge/Server-IIS-darkcyan)
 ![](https://img.shields.io/badge/Tools-Jira-darkcyan)
 
