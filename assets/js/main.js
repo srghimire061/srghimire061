@@ -126,7 +126,10 @@
     
     
     
-    
+    //===== Footer Dynamic Year
+    $(function () {
+		$('#currentYear').text(new Date().getFullYear());
+	});
     
     
     
