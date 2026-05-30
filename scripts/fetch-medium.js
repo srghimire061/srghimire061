@@ -2,7 +2,6 @@ const fs = require("fs");
 const Parser = require("rss-parser");
 
 const parser = new Parser();
-
 const FEED = "https://medium.com/feed/@srghimire061";
 
 (async () => {
@@ -10,8 +9,15 @@ const FEED = "https://medium.com/feed/@srghimire061";
 
     const posts = feed.items.slice(0, 10).map(item => {
 
-        const imgMatch =
-            item.content?.match(/<img[^>]+src="([^">]+)"/);
+        const html = item['content:encoded'] || item.content || "";
+
+        // 1. Try OG image (best)
+        let imgMatch = html.match(/property="og:image"\s+content="([^"]+)"/);
+
+        // 2. Fallback: first image in content
+        if (!imgMatch) {
+            imgMatch = html.match(/<img[^>]+src="([^">]+)"/);
+        }
 
         return {
             title: item.title,
