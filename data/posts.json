@@ -1,5 +1,11 @@
 [
   {
+    "title": "OWASP Top 10 for .NET Developers -Part 4: Preventing Insecure Design",
+    "link": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-4-preventing-insecure-design-6361281edbbe?source=rss-e70e38c6e4e------2",
+    "date": "Sun, 14 Jun 2026 18:08:08 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*qyULXqz2di4WQUMW4D4Fkw.png"
+  },
+  {
     "title": "OWASP Top 10 for .NET Developers -Part 3: Preventing Injection Attacks",
     "link": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-3-preventing-injection-attacks-c1e892b8b57e?source=rss-e70e38c6e4e------2",
     "date": "Fri, 29 May 2026 18:02:15 GMT",
@@ -52,11 +58,5 @@
     "link": "https://medium.com/@srghimire061/why-net-aspire-is-a-game-changer-for-cloud-native-development-in-net-9-7183be8db35e?source=rss-e70e38c6e4e------2",
     "date": "Tue, 14 Jan 2025 19:54:46 GMT",
     "image": "https://cdn-images-1.medium.com/max/1024/0*ayCZp1YxQuOd6iNV"
-  },
-  {
-    "title": "ASP.NET Core Journey: Build Scalable and Secure Applications",
-    "link": "https://medium.com/@srghimire061/asp-net-core-journey-build-scalable-and-secure-applications-182a1143d3e6?source=rss-e70e38c6e4e------2",
-    "date": "Mon, 14 Oct 2024 14:16:40 GMT",
-    "image": "https://cdn-images-1.medium.com/max/1024/1*fYJCpwU_7h0PZmwxHZ7pJQ.jpeg"
   }
 ]
