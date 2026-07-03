@@ -1,5 +1,11 @@
 [
   {
+    "title": "OWASP Top 10 for .NET Developers - Part 6: Preventing Vulnerable and Outdated Components",
+    "link": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-6-preventing-vulnerable-and-outdated-components-79a0b1f5c596?source=rss-e70e38c6e4e------2",
+    "date": "Thu, 02 Jul 2026 17:00:31 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*ALlzn2D6Rd20k9CjLn20yA.png"
+  },
+  {
     "title": "OWASP Top 10 for .NET Developers - Part 5: Preventing Security Misconfiguration",
     "link": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-5-preventing-security-misconfiguration-578f5802141e?source=rss-e70e38c6e4e------2",
     "date": "Sat, 27 Jun 2026 17:11:48 GMT",
@@ -52,11 +58,5 @@
     "link": "https://medium.com/@srghimire061/automating-asp-net-core-9-0-deployment-with-a-powershell-script-4ec9c19f03e1?source=rss-e70e38c6e4e------2",
     "date": "Sun, 30 Mar 2025 17:43:15 GMT",
     "image": "https://cdn-images-1.medium.com/max/1024/1*_PaMdqGgjcA5fDJUomZdfg.png"
-  },
-  {
-    "title": "Why .NET Aspire is a Game-Changer for Cloud-Native Development in .NET 9",
-    "link": "https://medium.com/@srghimire061/why-net-aspire-is-a-game-changer-for-cloud-native-development-in-net-9-7183be8db35e?source=rss-e70e38c6e4e------2",
-    "date": "Tue, 14 Jan 2025 19:54:46 GMT",
-    "image": "https://cdn-images-1.medium.com/max/1024/0*ayCZp1YxQuOd6iNV"
   }
 ]
