@@ -1,5 +1,11 @@
 [
   {
+    "title": "OWASP Top 10 for .NET Developers - Part 8: Preventing Software and Data Integrity Failures",
+    "link": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-8-preventing-software-and-data-integrity-failures-77b0a806cf5d?source=rss-e70e38c6e4e------2",
+    "date": "Sun, 12 Jul 2026 18:10:27 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*UFsEU-CKhAiXMkbhs8u7sA.png"
+  },
+  {
     "title": "OWASP Top 10 for .NET Developers - Part 6: Preventing Vulnerable and Outdated Components",
     "link": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-6-preventing-vulnerable-and-outdated-components-79a0b1f5c596?source=rss-e70e38c6e4e------2",
     "date": "Thu, 02 Jul 2026 17:00:31 GMT",
@@ -52,11 +58,5 @@
     "link": "https://medium.com/@srghimire061/sql-interview-questions-79e8d7da9e5a?source=rss-e70e38c6e4e------2",
     "date": "Thu, 10 Apr 2025 15:52:53 GMT",
     "image": "https://cdn-images-1.medium.com/max/598/0*9XF9d4kjsTnNTDnC.png"
-  },
-  {
-    "title": "Automating ASP.NET Core 9.0 Deployment with a PowerShell Script",
-    "link": "https://medium.com/@srghimire061/automating-asp-net-core-9-0-deployment-with-a-powershell-script-4ec9c19f03e1?source=rss-e70e38c6e4e------2",
-    "date": "Sun, 30 Mar 2025 17:43:15 GMT",
-    "image": "https://cdn-images-1.medium.com/max/1024/1*_PaMdqGgjcA5fDJUomZdfg.png"
   }
 ]
