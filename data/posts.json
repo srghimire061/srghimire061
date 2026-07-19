@@ -1,5 +1,11 @@
 [
   {
+    "title": "OWASP Top 10 for .NET Developers - Part 9: Preventing Security Logging and Monitoring Failures",
+    "link": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-9-preventing-security-logging-and-monitoring-failures-3c782e1cb6c5?source=rss-e70e38c6e4e------2",
+    "date": "Sat, 18 Jul 2026 16:50:21 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*usxrLVUo2O9BFY0S4rAjpg.png"
+  },
+  {
     "title": "OWASP Top 10 for .NET Developers - Part 8: Preventing Software and Data Integrity Failures",
     "link": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-8-preventing-software-and-data-integrity-failures-77b0a806cf5d?source=rss-e70e38c6e4e------2",
     "date": "Sun, 12 Jul 2026 18:10:27 GMT",
@@ -52,11 +58,5 @@
     "link": "https://medium.com/@srghimire061/software-development-in-2026-adapt-or-fall-behind-1b0217b97596?source=rss-e70e38c6e4e------2",
     "date": "Wed, 28 Jan 2026 16:51:35 GMT",
     "image": "https://cdn-images-1.medium.com/max/1024/1*BYvtG9upjDwARAa-qHOPdA.png"
-  },
-  {
-    "title": "SQL Interview Questions",
-    "link": "https://medium.com/@srghimire061/sql-interview-questions-79e8d7da9e5a?source=rss-e70e38c6e4e------2",
-    "date": "Thu, 10 Apr 2025 15:52:53 GMT",
-    "image": "https://cdn-images-1.medium.com/max/598/0*9XF9d4kjsTnNTDnC.png"
   }
 ]
