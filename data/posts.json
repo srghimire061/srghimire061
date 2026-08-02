@@ -1,5 +1,11 @@
 [
   {
+    "title": "OWASP Top 10 for .NET Developers -Part 10: Preventing Server-Side Request Forgery (SSRF)",
+    "link": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-10-preventing-server-side-request-forgery-ssrf-70fb8a7b1a15?source=rss-e70e38c6e4e------2",
+    "date": "Sat, 01 Aug 2026 13:01:21 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*Lmyzw8rKAfs2FX-M528-Cw.png"
+  },
+  {
     "title": "Beyond Paperless Loans: How NRB Is Defining the Future of Digital Lending in Nepal",
     "link": "https://medium.com/@srghimire061/beyond-paperless-loans-how-nrb-is-defining-the-future-of-digital-lending-in-nepal-55d4d9dc6010?source=rss-e70e38c6e4e------2",
     "date": "Sun, 19 Jul 2026 13:58:01 GMT",
@@ -52,11 +58,5 @@
     "link": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-1-preventing-broken-access-control-8ce4e40a818f?source=rss-e70e38c6e4e------2",
     "date": "Sat, 09 May 2026 15:51:11 GMT",
     "image": "https://cdn-images-1.medium.com/max/1024/1*dk8aj2fCrEVjYO8EOqoZHQ.png"
-  },
-  {
-    "title": "Launch your web app in Incognito mode directly from Visual Studio",
-    "link": "https://medium.com/@srghimire061/launch-your-web-app-in-incognito-mode-directly-from-visual-studio-ab80c40333fe?source=rss-e70e38c6e4e------2",
-    "date": "Sat, 14 Feb 2026 13:59:26 GMT",
-    "image": "https://cdn-images-1.medium.com/max/629/1*KCrz7MgrBAYrSjvEiyX1vA.png"
   }
 ]
