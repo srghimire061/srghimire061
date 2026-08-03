@@ -1,5 +1,11 @@
 [
   {
+    "title": "Secure File Uploads in ASP.NET Core: Preventing Malicious File Upload Attacks",
+    "link": "https://medium.com/@srghimire061/secure-file-uploads-in-asp-net-core-preventing-malicious-file-upload-attacks-8cd9b1574202?source=rss-e70e38c6e4e------2",
+    "date": "Sun, 02 Aug 2026 11:37:40 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*66bQAghWQiwHQoRwKqm-3g.png"
+  },
+  {
     "title": "OWASP Top 10 for .NET Developers -Part 10: Preventing Server-Side Request Forgery (SSRF)",
     "link": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-10-preventing-server-side-request-forgery-ssrf-70fb8a7b1a15?source=rss-e70e38c6e4e------2",
     "date": "Sat, 01 Aug 2026 13:01:21 GMT",
@@ -52,11 +58,5 @@
     "link": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-2-preventing-cryptographic-failures-953b84455d87?source=rss-e70e38c6e4e------2",
     "date": "Tue, 19 May 2026 18:11:38 GMT",
     "image": "https://cdn-images-1.medium.com/max/1024/1*yd9mVe45YAhTwJPgfB7gYQ.png"
-  },
-  {
-    "title": "OWASP Top 10 for .NET Developers - Part 1: Preventing Broken Access Control",
-    "link": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-1-preventing-broken-access-control-8ce4e40a818f?source=rss-e70e38c6e4e------2",
-    "date": "Sat, 09 May 2026 15:51:11 GMT",
-    "image": "https://cdn-images-1.medium.com/max/1024/1*dk8aj2fCrEVjYO8EOqoZHQ.png"
   }
 ]
