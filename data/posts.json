@@ -1,5 +1,11 @@
 [
   {
+    "title": "Is Nepal Ready for Digital Currency? Understanding NRB’s CBDC Vision",
+    "link": "https://medium.com/@srghimire061/is-nepal-ready-for-digital-currency-understanding-nrbs-cbdc-vision-62be9ab64265?source=rss-e70e38c6e4e------2",
+    "date": "Sun, 09 Aug 2026 12:40:48 GMT",
+    "image": "https://cdn-images-1.medium.com/max/1024/1*6NY5Bw_VzbBYv0VKq9JCOQ.png"
+  },
+  {
     "title": "Secure File Uploads in ASP.NET Core: Preventing Malicious File Upload Attacks",
     "link": "https://medium.com/@srghimire061/secure-file-uploads-in-asp-net-core-preventing-malicious-file-upload-attacks-8cd9b1574202?source=rss-e70e38c6e4e------2",
     "date": "Sun, 02 Aug 2026 11:37:40 GMT",
@@ -52,11 +58,5 @@
     "link": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-3-preventing-injection-attacks-c1e892b8b57e?source=rss-e70e38c6e4e------2",
     "date": "Fri, 29 May 2026 18:02:15 GMT",
     "image": "https://cdn-images-1.medium.com/max/1024/1*JyVpCOSYv7mHu0BSfFjqCQ.png"
-  },
-  {
-    "title": "OWASP Top 10 for .NET Developers - Part 2: Preventing Cryptographic Failures",
-    "link": "https://medium.com/@srghimire061/owasp-top-10-for-net-developers-part-2-preventing-cryptographic-failures-953b84455d87?source=rss-e70e38c6e4e------2",
-    "date": "Tue, 19 May 2026 18:11:38 GMT",
-    "image": "https://cdn-images-1.medium.com/max/1024/1*yd9mVe45YAhTwJPgfB7gYQ.png"
   }
 ]
